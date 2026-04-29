@@ -12,14 +12,14 @@ export default function Home() {
     <main className="relative min-h-screen bg-bone">
       <Nav />
 
-      {/* Hero — base layer */}
-      <div className="relative" style={{ zIndex: 1 }}>
+      {/* Hero — base layer, pinned */}
+      <div className="sticky top-0" style={{ zIndex: 1 }}>
         <Hero />
       </div>
 
-      {/* About — rises over Hero */}
+      {/* About — rises over Hero, pins while next section covers it */}
       <div
-        className="relative -mt-10 rounded-t-[2rem] overflow-hidden"
+        className="sticky top-0 rounded-t-[2rem] overflow-hidden"
         style={{
           zIndex: 2,
           boxShadow: "0 -20px 60px rgba(0,0,0,0.10)",
@@ -28,9 +28,9 @@ export default function Home() {
         <About />
       </div>
 
-      {/* Work — rises over About */}
+      {/* Work — rises over About, pins */}
       <div
-        className="relative -mt-10 rounded-t-[2rem] overflow-hidden"
+        className="sticky top-0 rounded-t-[2rem] overflow-hidden"
         style={{
           zIndex: 3,
           boxShadow: "0 -20px 60px rgba(0,0,0,0.14)",
@@ -39,9 +39,9 @@ export default function Home() {
         <Work />
       </div>
 
-      {/* Experience — rises over Work */}
+      {/* Experience — too long to pin; card treatment only, scrolls normally */}
       <div
-        className="relative -mt-10 rounded-t-[2rem] overflow-hidden"
+        className="relative rounded-t-[2rem] overflow-hidden -mt-8"
         style={{
           zIndex: 4,
           boxShadow: "0 -20px 60px rgba(0,0,0,0.10)",
@@ -50,9 +50,9 @@ export default function Home() {
         <Experience />
       </div>
 
-      {/* BrandWall — rises over Experience */}
+      {/* BrandWall — rises and pins over Experience */}
       <div
-        className="relative -mt-10 rounded-t-[2rem] overflow-hidden"
+        className="sticky top-0 rounded-t-[2rem] overflow-hidden"
         style={{
           zIndex: 5,
           boxShadow: "0 -20px 60px rgba(0,0,0,0.18)",
@@ -61,9 +61,9 @@ export default function Home() {
         <BrandWall />
       </div>
 
-      {/* Gallery — rises over BrandWall */}
+      {/* Gallery — too long to pin; card treatment only, scrolls normally */}
       <div
-        className="relative -mt-10 rounded-t-[2rem] overflow-hidden"
+        className="relative rounded-t-[2rem] overflow-hidden -mt-8"
         style={{
           zIndex: 6,
           boxShadow: "0 -20px 60px rgba(0,0,0,0.10)",
@@ -72,9 +72,9 @@ export default function Home() {
         <Gallery />
       </div>
 
-      {/* Contact — rises over Gallery */}
+      {/* Contact — rises and pins over Gallery */}
       <div
-        className="relative -mt-10 rounded-t-[2rem] overflow-hidden"
+        className="sticky top-0 rounded-t-[2rem] overflow-hidden"
         style={{
           zIndex: 7,
           boxShadow: "0 -20px 60px rgba(0,0,0,0.18)",
