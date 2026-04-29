@@ -46,9 +46,8 @@ export default function Work() {
                 fontVariationSettings: "'SOFT' 50, 'opsz' 96",
               }}
             >
-              Designed to <em className="font-light">scroll.</em>
-              <br />
-              Built to <em className="font-light">convert.</em>
+              Fifteen years of building brands that{" "}
+              <em className="font-light">move markets.</em>
             </h2>
           </div>
         </div>

@@ -18,6 +18,26 @@ export default function Hero() {
         <div className="absolute inset-0 bg-gradient-to-b from-bone/60 via-bone/20 to-bone" />
       </div>
 
+      {/* Portrait — editorial, positioned right */}
+      <div className="absolute inset-y-0 right-0 w-[42%] md:w-[38%] -z-[5] hidden md:block">
+        <motion.div
+          initial={{ opacity: 0, x: 40 }}
+          animate={{ opacity: 1, x: 0 }}
+          transition={{ duration: 1.4, delay: 0.5, ease: [0.22, 1, 0.36, 1] }}
+          className="relative w-full h-full"
+        >
+          <img
+            src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=1600&q=85&auto=format&fit=crop&fit=crop&crop=faces,top"
+            alt="Vita Gohel — Creative Director"
+            className="w-full h-full object-cover object-top"
+          />
+          {/* Fade left into bone background */}
+          <div className="absolute inset-0 bg-gradient-to-r from-bone via-bone/10 to-transparent" />
+          {/* Fade bottom into bone background */}
+          <div className="absolute inset-0 bg-gradient-to-t from-bone via-bone/30 to-transparent" />
+        </motion.div>
+      </div>
+
       <div className="relative max-w-[1600px] mx-auto w-full px-6 md:px-12">
         {/* Index/eyebrow */}
         <motion.div

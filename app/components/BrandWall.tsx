@@ -3,7 +3,7 @@
 const brands = [
   "LBLA Beauty",
   "Neutrogena",
-  "OPI",
+  "OPI Products",
   "Alterna Haircare",
   "Napoleon Perdis",
   "LORAC Cosmetics",
@@ -13,8 +13,9 @@ const brands = [
   "Murad",
 ];
 
+const separator = <span className="text-bone/25 not-italic mx-6 md:mx-10 select-none" aria-hidden>✦</span>;
+
 export default function BrandWall() {
-  // Duplicate the list for seamless looping
   const looped = [...brands, ...brands];
 
   return (
@@ -48,26 +49,25 @@ export default function BrandWall() {
       </div>
 
       {/* Marquee */}
-      <div className="marquee-container relative">
+      <div className="marquee-container relative py-4 md:py-6">
         {/* Edge fades */}
-        <div className="absolute inset-y-0 left-0 w-32 z-10 bg-gradient-to-r from-deepink to-transparent pointer-events-none" />
-        <div className="absolute inset-y-0 right-0 w-32 z-10 bg-gradient-to-l from-deepink to-transparent pointer-events-none" />
+        <div className="absolute inset-y-0 left-0 w-24 md:w-48 z-10 bg-gradient-to-r from-deepink to-transparent pointer-events-none" />
+        <div className="absolute inset-y-0 right-0 w-24 md:w-48 z-10 bg-gradient-to-l from-deepink to-transparent pointer-events-none" />
 
-        <div className="marquee-track">
+        <div className="marquee-track-large">
           {looped.map((brand, i) => (
             <span
               key={i}
-              className="font-display italic font-light px-8 md:px-14 flex items-center gap-8 md:gap-14 text-bone/85"
+              className="font-display italic font-light inline-flex items-center text-bone/90 whitespace-nowrap"
               style={{
-                fontSize: "clamp(2.5rem, 6vw, 5.5rem)",
+                fontSize: "clamp(4rem, 10vw, 11rem)",
                 fontVariationSettings: "'SOFT' 100, 'WONK' 1, 'opsz' 144",
-                lineHeight: 1.1,
+                lineHeight: 1,
+                letterSpacing: "-0.02em",
               }}
             >
               {brand}
-              <span className="text-bone/30 not-italic" aria-hidden>
-                ✦
-              </span>
+              {separator}
             </span>
           ))}
         </div>
