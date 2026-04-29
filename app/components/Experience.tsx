@@ -97,7 +97,7 @@ export default function Experience() {
   return (
     <section
       id="experience"
-      className="relative py-24 md:py-40 border-t border-ink/10"
+      className="relative bg-bone py-24 md:py-40"
     >
       <div className="max-w-[1600px] mx-auto px-6 md:px-12">
         {/* Header */}

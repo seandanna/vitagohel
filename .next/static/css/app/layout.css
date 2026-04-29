@@ -711,6 +711,9 @@ video {
 .mt-24 {
   margin-top: 6rem;
 }
+.-mt-10 {
+  margin-top: -2.5rem;
+}
 .block {
   display: block;
 }
@@ -930,6 +933,10 @@ video {
 .rounded-t-lg {
   border-top-left-radius: 0.5rem;
   border-top-right-radius: 0.5rem;
+}
+.rounded-t-\[2rem\] {
+  border-top-left-radius: 2rem;
+  border-top-right-radius: 2rem;
 }
 .border {
   border-width: 1px;

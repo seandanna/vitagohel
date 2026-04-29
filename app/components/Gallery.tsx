@@ -32,7 +32,7 @@ const images = [
 
 export default function Gallery() {
   return (
-    <section className="relative py-24 md:py-40 border-t border-ink/10">
+    <section className="relative bg-bone py-24 md:py-40">
       <div className="max-w-[1600px] mx-auto px-6 md:px-12">
         {/* Header */}
         <div className="grid md:grid-cols-12 gap-8 mb-16 md:mb-24">

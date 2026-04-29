@@ -60,7 +60,7 @@ export default function BrandWall() {
               key={i}
               className="font-display italic font-light inline-flex items-center text-bone/90 whitespace-nowrap"
               style={{
-                fontSize: "clamp(4rem, 10vw, 11rem)",
+                fontSize: "clamp(5rem, 19vw, 22rem)",
                 fontVariationSettings: "'SOFT' 100, 'WONK' 1, 'opsz' 144",
                 lineHeight: 1,
                 letterSpacing: "-0.02em",
