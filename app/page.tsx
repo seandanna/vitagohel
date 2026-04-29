@@ -1,3 +1,5 @@
+"use client";
+
 import Nav from "./components/Nav";
 import Hero from "./components/Hero";
 import About from "./components/About";
@@ -6,82 +8,47 @@ import Experience from "./components/Experience";
 import BrandWall from "./components/BrandWall";
 import Gallery from "./components/Gallery";
 import Contact from "./components/Contact";
+import StickyCard from "./components/StickyCard";
 
 export default function Home() {
   return (
     <main className="relative min-h-screen bg-bone">
       <Nav />
 
-      {/* Hero — base layer, pinned */}
-      <div className="sticky top-0" style={{ zIndex: 1 }}>
+      {/* Hero — base layer */}
+      <StickyCard zIndex={1} shadow="none">
         <Hero />
-      </div>
+      </StickyCard>
 
-      {/* About — rises over Hero, pins while next section covers it */}
-      <div
-        className="sticky top-0 rounded-t-[2rem] overflow-hidden"
-        style={{
-          zIndex: 2,
-          boxShadow: "0 -20px 60px rgba(0,0,0,0.10)",
-        }}
-      >
+      {/* About — rises over Hero */}
+      <StickyCard zIndex={2} shadow="0 -20px 60px rgba(0,0,0,0.10)">
         <About />
-      </div>
+      </StickyCard>
 
-      {/* Work — rises over About, pins */}
-      <div
-        className="sticky top-0 rounded-t-[2rem] overflow-hidden"
-        style={{
-          zIndex: 3,
-          boxShadow: "0 -20px 60px rgba(0,0,0,0.14)",
-        }}
-      >
+      {/* Work — rises over About */}
+      <StickyCard zIndex={3} shadow="0 -20px 60px rgba(0,0,0,0.14)">
         <Work />
-      </div>
+      </StickyCard>
 
-      {/* Experience — too long to pin; card treatment only, scrolls normally */}
-      <div
-        className="relative rounded-t-[2rem] overflow-hidden -mt-8"
-        style={{
-          zIndex: 4,
-          boxShadow: "0 -20px 60px rgba(0,0,0,0.10)",
-        }}
-      >
+      {/* Experience — rises over Work */}
+      <StickyCard zIndex={4} shadow="0 -20px 60px rgba(0,0,0,0.10)">
         <Experience />
-      </div>
+      </StickyCard>
 
-      {/* BrandWall — rises and pins over Experience */}
-      <div
-        className="sticky top-0 rounded-t-[2rem] overflow-hidden"
-        style={{
-          zIndex: 5,
-          boxShadow: "0 -20px 60px rgba(0,0,0,0.18)",
-        }}
-      >
+      {/* BrandWall — rises over Experience */}
+      <StickyCard zIndex={5} shadow="0 -20px 60px rgba(0,0,0,0.18)">
         <BrandWall />
-      </div>
+      </StickyCard>
 
-      {/* Gallery — too long to pin; card treatment only, scrolls normally */}
-      <div
-        className="relative rounded-t-[2rem] overflow-hidden -mt-8"
-        style={{
-          zIndex: 6,
-          boxShadow: "0 -20px 60px rgba(0,0,0,0.10)",
-        }}
-      >
+      {/* Gallery — rises over BrandWall */}
+      <StickyCard zIndex={6} shadow="0 -20px 60px rgba(0,0,0,0.10)">
         <Gallery />
-      </div>
+      </StickyCard>
 
-      {/* Contact — rises and pins over Gallery */}
-      <div
-        className="sticky top-0 rounded-t-[2rem] overflow-hidden"
-        style={{
-          zIndex: 7,
-          boxShadow: "0 -20px 60px rgba(0,0,0,0.18)",
-        }}
-      >
+      {/* Contact — rises over Gallery */}
+      <StickyCard zIndex={7} shadow="0 -20px 60px rgba(0,0,0,0.18)">
         <Contact />
-      </div>
+      </StickyCard>
     </main>
   );
 }

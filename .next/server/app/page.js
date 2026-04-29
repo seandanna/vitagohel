@@ -100,13 +100,13 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
-/***/ "(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FAbout.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FBrandWall.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FContact.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FExperience.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FGallery.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FHero.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FNav.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FWork.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&server=true!":
-/*!***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FAbout.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FBrandWall.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FContact.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FExperience.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FGallery.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FHero.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FNav.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FWork.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&server=true! ***!
-  \***********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ "(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fpage.tsx%22%2C%22ids%22%3A%5B%5D%7D&server=true!":
+/*!*************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fpage.tsx%22%2C%22ids%22%3A%5B%5D%7D&server=true! ***!
+  \*************************************************************************************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./app/components/About.tsx */ \"(ssr)/./app/components/About.tsx\"));\n;\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./app/components/BrandWall.tsx */ \"(ssr)/./app/components/BrandWall.tsx\"));\n;\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./app/components/Contact.tsx */ \"(ssr)/./app/components/Contact.tsx\"));\n;\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./app/components/Experience.tsx */ \"(ssr)/./app/components/Experience.tsx\"));\n;\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./app/components/Gallery.tsx */ \"(ssr)/./app/components/Gallery.tsx\"));\n;\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./app/components/Hero.tsx */ \"(ssr)/./app/components/Hero.tsx\"));\n;\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./app/components/Nav.tsx */ \"(ssr)/./app/components/Nav.tsx\"));\n;\nPromise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./app/components/Work.tsx */ \"(ssr)/./app/components/Work.tsx\"));\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9JTdCJTIycmVxdWVzdCUyMiUzQSUyMiUyRmhvbWUlMkZydW5uZXIlMkZ3b3Jrc3BhY2UlMkZhcHAlMkZjb21wb25lbnRzJTJGQWJvdXQudHN4JTIyJTJDJTIyaWRzJTIyJTNBJTVCJTIyZGVmYXVsdCUyMiU1RCU3RCZtb2R1bGVzPSU3QiUyMnJlcXVlc3QlMjIlM0ElMjIlMkZob21lJTJGcnVubmVyJTJGd29ya3NwYWNlJTJGYXBwJTJGY29tcG9uZW50cyUyRkJyYW5kV2FsbC50c3glMjIlMkMlMjJpZHMlMjIlM0ElNUIlMjJkZWZhdWx0JTIyJTVEJTdEJm1vZHVsZXM9JTdCJTIycmVxdWVzdCUyMiUzQSUyMiUyRmhvbWUlMkZydW5uZXIlMkZ3b3Jrc3BhY2UlMkZhcHAlMkZjb21wb25lbnRzJTJGQ29udGFjdC50c3glMjIlMkMlMjJpZHMlMjIlM0ElNUIlMjJkZWZhdWx0JTIyJTVEJTdEJm1vZHVsZXM9JTdCJTIycmVxdWVzdCUyMiUzQSUyMiUyRmhvbWUlMkZydW5uZXIlMkZ3b3Jrc3BhY2UlMkZhcHAlMkZjb21wb25lbnRzJTJGRXhwZXJpZW5jZS50c3glMjIlMkMlMjJpZHMlMjIlM0ElNUIlMjJkZWZhdWx0JTIyJTVEJTdEJm1vZHVsZXM9JTdCJTIycmVxdWVzdCUyMiUzQSUyMiUyRmhvbWUlMkZydW5uZXIlMkZ3b3Jrc3BhY2UlMkZhcHAlMkZjb21wb25lbnRzJTJGR2FsbGVyeS50c3glMjIlMkMlMjJpZHMlMjIlM0ElNUIlMjJkZWZhdWx0JTIyJTVEJTdEJm1vZHVsZXM9JTdCJTIycmVxdWVzdCUyMiUzQSUyMiUyRmhvbWUlMkZydW5uZXIlMkZ3b3Jrc3BhY2UlMkZhcHAlMkZjb21wb25lbnRzJTJGSGVyby50c3glMjIlMkMlMjJpZHMlMjIlM0ElNUIlMjJkZWZhdWx0JTIyJTVEJTdEJm1vZHVsZXM9JTdCJTIycmVxdWVzdCUyMiUzQSUyMiUyRmhvbWUlMkZydW5uZXIlMkZ3b3Jrc3BhY2UlMkZhcHAlMkZjb21wb25lbnRzJTJGTmF2LnRzeCUyMiUyQyUyMmlkcyUyMiUzQSU1QiUyMmRlZmF1bHQlMjIlNUQlN0QmbW9kdWxlcz0lN0IlMjJyZXF1ZXN0JTIyJTNBJTIyJTJGaG9tZSUyRnJ1bm5lciUyRndvcmtzcGFjZSUyRmFwcCUyRmNvbXBvbmVudHMlMkZXb3JrLnRzeCUyMiUyQyUyMmlkcyUyMiUzQSU1QiUyMmRlZmF1bHQlMjIlNUQlN0Qmc2VydmVyPXRydWUhIiwibWFwcGluZ3MiOiJBQUFBLGdLQUFpSDtBQUNqSDtBQUNBLHdLQUFxSDtBQUNySDtBQUNBLG9LQUFtSDtBQUNuSDtBQUNBLDBLQUFzSDtBQUN0SDtBQUNBLG9LQUFtSDtBQUNuSDtBQUNBLDhKQUFnSDtBQUNoSDtBQUNBLDRKQUErRztBQUMvRztBQUNBLDhKQUFnSCIsInNvdXJjZXMiOlsid2VicGFjazovL3ZpdGEtZ29oZWwtcG9ydGZvbGlvLz82MzhmIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiLCB3ZWJwYWNrRXhwb3J0czogW1wiZGVmYXVsdFwiXSAqLyBcIi9ob21lL3J1bm5lci93b3Jrc3BhY2UvYXBwL2NvbXBvbmVudHMvQWJvdXQudHN4XCIpO1xuO1xuaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIsIHdlYnBhY2tFeHBvcnRzOiBbXCJkZWZhdWx0XCJdICovIFwiL2hvbWUvcnVubmVyL3dvcmtzcGFjZS9hcHAvY29tcG9uZW50cy9CcmFuZFdhbGwudHN4XCIpO1xuO1xuaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIsIHdlYnBhY2tFeHBvcnRzOiBbXCJkZWZhdWx0XCJdICovIFwiL2hvbWUvcnVubmVyL3dvcmtzcGFjZS9hcHAvY29tcG9uZW50cy9Db250YWN0LnRzeFwiKTtcbjtcbmltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiLCB3ZWJwYWNrRXhwb3J0czogW1wiZGVmYXVsdFwiXSAqLyBcIi9ob21lL3J1bm5lci93b3Jrc3BhY2UvYXBwL2NvbXBvbmVudHMvRXhwZXJpZW5jZS50c3hcIik7XG47XG5pbXBvcnQoLyogd2VicGFja01vZGU6IFwiZWFnZXJcIiwgd2VicGFja0V4cG9ydHM6IFtcImRlZmF1bHRcIl0gKi8gXCIvaG9tZS9ydW5uZXIvd29ya3NwYWNlL2FwcC9jb21wb25lbnRzL0dhbGxlcnkudHN4XCIpO1xuO1xuaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIsIHdlYnBhY2tFeHBvcnRzOiBbXCJkZWZhdWx0XCJdICovIFwiL2hvbWUvcnVubmVyL3dvcmtzcGFjZS9hcHAvY29tcG9uZW50cy9IZXJvLnRzeFwiKTtcbjtcbmltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiLCB3ZWJwYWNrRXhwb3J0czogW1wiZGVmYXVsdFwiXSAqLyBcIi9ob21lL3J1bm5lci93b3Jrc3BhY2UvYXBwL2NvbXBvbmVudHMvTmF2LnRzeFwiKTtcbjtcbmltcG9ydCgvKiB3ZWJwYWNrTW9kZTogXCJlYWdlclwiLCB3ZWJwYWNrRXhwb3J0czogW1wiZGVmYXVsdFwiXSAqLyBcIi9ob21lL3J1bm5lci93b3Jrc3BhY2UvYXBwL2NvbXBvbmVudHMvV29yay50c3hcIik7XG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FAbout.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FBrandWall.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FContact.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FExperience.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FGallery.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FHero.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FNav.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fcomponents%2FWork.tsx%22%2C%22ids%22%3A%5B%22default%22%5D%7D&server=true!\n");
+eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.bind(__webpack_require__, /*! ./app/page.tsx */ \"(ssr)/./app/page.tsx\"));\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L2J1aWxkL3dlYnBhY2svbG9hZGVycy9uZXh0LWZsaWdodC1jbGllbnQtZW50cnktbG9hZGVyLmpzP21vZHVsZXM9JTdCJTIycmVxdWVzdCUyMiUzQSUyMiUyRmhvbWUlMkZydW5uZXIlMkZ3b3Jrc3BhY2UlMkZhcHAlMkZwYWdlLnRzeCUyMiUyQyUyMmlkcyUyMiUzQSU1QiU1RCU3RCZzZXJ2ZXI9dHJ1ZSEiLCJtYXBwaW5ncyI6IkFBQUEsd0lBQXdFIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vdml0YS1nb2hlbC1wb3J0Zm9saW8vP2NjMzciXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0KC8qIHdlYnBhY2tNb2RlOiBcImVhZ2VyXCIgKi8gXCIvaG9tZS9ydW5uZXIvd29ya3NwYWNlL2FwcC9wYWdlLnRzeFwiKTtcbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///(ssr)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=%7B%22request%22%3A%22%2Fhome%2Frunner%2Fworkspace%2Fapp%2Fpage.tsx%22%2C%22ids%22%3A%5B%5D%7D&server=true!\n");
 
 /***/ }),
 
@@ -207,6 +207,17 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
+/***/ "(ssr)/./app/components/StickyCard.tsx":
+/*!***************************************!*\
+  !*** ./app/components/StickyCard.tsx ***!
+  \***************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ StickyCard)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"(ssr)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"(ssr)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/ssr/react.js\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* __next_internal_client_entry_do_not_use__ default auto */ \n\nfunction StickyCard({ children, zIndex, shadow }) {\n    const ref = (0,react__WEBPACK_IMPORTED_MODULE_1__.useRef)(null);\n    const [stickyTop, setStickyTop] = (0,react__WEBPACK_IMPORTED_MODULE_1__.useState)(0);\n    (0,react__WEBPACK_IMPORTED_MODULE_1__.useEffect)(()=>{\n        const measure = ()=>{\n            if (!ref.current) return;\n            const h = ref.current.offsetHeight;\n            const vh = window.innerHeight;\n            // Pin so the bottom of the section sits at the viewport bottom.\n            // If section fits in viewport, pin at top: 0.\n            setStickyTop(h > vh ? -(h - vh) : 0);\n        };\n        measure();\n        const ro = new ResizeObserver(measure);\n        if (ref.current) ro.observe(ref.current);\n        window.addEventListener(\"resize\", measure);\n        return ()=>{\n            ro.disconnect();\n            window.removeEventListener(\"resize\", measure);\n        };\n    }, []);\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        ref: ref,\n        className: \"sticky rounded-t-[2rem] overflow-hidden\",\n        style: {\n            top: stickyTop,\n            zIndex,\n            boxShadow: shadow ?? \"0 -20px 60px rgba(0,0,0,0.10)\"\n        },\n        children: children\n    }, void 0, false, {\n        fileName: \"/home/runner/workspace/app/components/StickyCard.tsx\",\n        lineNumber: 38,\n        columnNumber: 5\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9hcHAvY29tcG9uZW50cy9TdGlja3lDYXJkLnRzeCIsIm1hcHBpbmdzIjoiOzs7Ozs7Ozs7QUFFK0Q7QUFRaEQsU0FBU0csV0FBVyxFQUFFQyxRQUFRLEVBQUVDLE1BQU0sRUFBRUMsTUFBTSxFQUFtQjtJQUM5RSxNQUFNQyxNQUFNUCw2Q0FBTUEsQ0FBaUI7SUFDbkMsTUFBTSxDQUFDUSxXQUFXQyxhQUFhLEdBQUdQLCtDQUFRQSxDQUFDO0lBRTNDRCxnREFBU0EsQ0FBQztRQUNSLE1BQU1TLFVBQVU7WUFDZCxJQUFJLENBQUNILElBQUlJLE9BQU8sRUFBRTtZQUNsQixNQUFNQyxJQUFJTCxJQUFJSSxPQUFPLENBQUNFLFlBQVk7WUFDbEMsTUFBTUMsS0FBS0MsT0FBT0MsV0FBVztZQUM3QixnRUFBZ0U7WUFDaEUsOENBQThDO1lBQzlDUCxhQUFhRyxJQUFJRSxLQUFLLENBQUVGLENBQUFBLElBQUlFLEVBQUMsSUFBSztRQUNwQztRQUVBSjtRQUVBLE1BQU1PLEtBQUssSUFBSUMsZUFBZVI7UUFDOUIsSUFBSUgsSUFBSUksT0FBTyxFQUFFTSxHQUFHRSxPQUFPLENBQUNaLElBQUlJLE9BQU87UUFDdkNJLE9BQU9LLGdCQUFnQixDQUFDLFVBQVVWO1FBRWxDLE9BQU87WUFDTE8sR0FBR0ksVUFBVTtZQUNiTixPQUFPTyxtQkFBbUIsQ0FBQyxVQUFVWjtRQUN2QztJQUNGLEdBQUcsRUFBRTtJQUVMLHFCQUNFLDhEQUFDYTtRQUNDaEIsS0FBS0E7UUFDTGlCLFdBQVU7UUFDVkMsT0FBTztZQUNMQyxLQUFLbEI7WUFDTEg7WUFDQXNCLFdBQVdyQixVQUFVO1FBQ3ZCO2tCQUVDRjs7Ozs7O0FBR1AiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly92aXRhLWdvaGVsLXBvcnRmb2xpby8uL2FwcC9jb21wb25lbnRzL1N0aWNreUNhcmQudHN4PzY0NTIiXSwic291cmNlc0NvbnRlbnQiOlsiXCJ1c2UgY2xpZW50XCI7XG5cbmltcG9ydCB7IHVzZVJlZiwgdXNlRWZmZWN0LCB1c2VTdGF0ZSwgUmVhY3ROb2RlIH0gZnJvbSBcInJlYWN0XCI7XG5cbmludGVyZmFjZSBTdGlja3lDYXJkUHJvcHMge1xuICBjaGlsZHJlbjogUmVhY3ROb2RlO1xuICB6SW5kZXg6IG51bWJlcjtcbiAgc2hhZG93Pzogc3RyaW5nO1xufVxuXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBTdGlja3lDYXJkKHsgY2hpbGRyZW4sIHpJbmRleCwgc2hhZG93IH06IFN0aWNreUNhcmRQcm9wcykge1xuICBjb25zdCByZWYgPSB1c2VSZWY8SFRNTERpdkVsZW1lbnQ+KG51bGwpO1xuICBjb25zdCBbc3RpY2t5VG9wLCBzZXRTdGlja3lUb3BdID0gdXNlU3RhdGUoMCk7XG5cbiAgdXNlRWZmZWN0KCgpID0+IHtcbiAgICBjb25zdCBtZWFzdXJlID0gKCkgPT4ge1xuICAgICAgaWYgKCFyZWYuY3VycmVudCkgcmV0dXJuO1xuICAgICAgY29uc3QgaCA9IHJlZi5jdXJyZW50Lm9mZnNldEhlaWdodDtcbiAgICAgIGNvbnN0IHZoID0gd2luZG93LmlubmVySGVpZ2h0O1xuICAgICAgLy8gUGluIHNvIHRoZSBib3R0b20gb2YgdGhlIHNlY3Rpb24gc2l0cyBhdCB0aGUgdmlld3BvcnQgYm90dG9tLlxuICAgICAgLy8gSWYgc2VjdGlvbiBmaXRzIGluIHZpZXdwb3J0LCBwaW4gYXQgdG9wOiAwLlxuICAgICAgc2V0U3RpY2t5VG9wKGggPiB2aCA/IC0oaCAtIHZoKSA6IDApO1xuICAgIH07XG5cbiAgICBtZWFzdXJlKCk7XG5cbiAgICBjb25zdCBybyA9IG5ldyBSZXNpemVPYnNlcnZlcihtZWFzdXJlKTtcbiAgICBpZiAocmVmLmN1cnJlbnQpIHJvLm9ic2VydmUocmVmLmN1cnJlbnQpO1xuICAgIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKFwicmVzaXplXCIsIG1lYXN1cmUpO1xuXG4gICAgcmV0dXJuICgpID0+IHtcbiAgICAgIHJvLmRpc2Nvbm5lY3QoKTtcbiAgICAgIHdpbmRvdy5yZW1vdmVFdmVudExpc3RlbmVyKFwicmVzaXplXCIsIG1lYXN1cmUpO1xuICAgIH07XG4gIH0sIFtdKTtcblxuICByZXR1cm4gKFxuICAgIDxkaXZcbiAgICAgIHJlZj17cmVmfVxuICAgICAgY2xhc3NOYW1lPVwic3RpY2t5IHJvdW5kZWQtdC1bMnJlbV0gb3ZlcmZsb3ctaGlkZGVuXCJcbiAgICAgIHN0eWxlPXt7XG4gICAgICAgIHRvcDogc3RpY2t5VG9wLFxuICAgICAgICB6SW5kZXgsXG4gICAgICAgIGJveFNoYWRvdzogc2hhZG93ID8/IFwiMCAtMjBweCA2MHB4IHJnYmEoMCwwLDAsMC4xMClcIixcbiAgICAgIH19XG4gICAgPlxuICAgICAge2NoaWxkcmVufVxuICAgIDwvZGl2PlxuICApO1xufVxuIl0sIm5hbWVzIjpbInVzZVJlZiIsInVzZUVmZmVjdCIsInVzZVN0YXRlIiwiU3RpY2t5Q2FyZCIsImNoaWxkcmVuIiwiekluZGV4Iiwic2hhZG93IiwicmVmIiwic3RpY2t5VG9wIiwic2V0U3RpY2t5VG9wIiwibWVhc3VyZSIsImN1cnJlbnQiLCJoIiwib2Zmc2V0SGVpZ2h0IiwidmgiLCJ3aW5kb3ciLCJpbm5lckhlaWdodCIsInJvIiwiUmVzaXplT2JzZXJ2ZXIiLCJvYnNlcnZlIiwiYWRkRXZlbnRMaXN0ZW5lciIsImRpc2Nvbm5lY3QiLCJyZW1vdmVFdmVudExpc3RlbmVyIiwiZGl2IiwiY2xhc3NOYW1lIiwic3R5bGUiLCJ0b3AiLCJib3hTaGFkb3ciXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(ssr)/./app/components/StickyCard.tsx\n");
+
+/***/ }),
+
 /***/ "(ssr)/./app/components/Work.tsx":
 /*!*********************************!*\
   !*** ./app/components/Work.tsx ***!
@@ -218,6 +229,17 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
+/***/ "(ssr)/./app/page.tsx":
+/*!**********************!*\
+  !*** ./app/page.tsx ***!
+  \**********************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Home)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"(ssr)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _components_Nav__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./components/Nav */ \"(ssr)/./app/components/Nav.tsx\");\n/* harmony import */ var _components_Hero__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components/Hero */ \"(ssr)/./app/components/Hero.tsx\");\n/* harmony import */ var _components_About__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./components/About */ \"(ssr)/./app/components/About.tsx\");\n/* harmony import */ var _components_Work__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./components/Work */ \"(ssr)/./app/components/Work.tsx\");\n/* harmony import */ var _components_Experience__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./components/Experience */ \"(ssr)/./app/components/Experience.tsx\");\n/* harmony import */ var _components_BrandWall__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./components/BrandWall */ \"(ssr)/./app/components/BrandWall.tsx\");\n/* harmony import */ var _components_Gallery__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./components/Gallery */ \"(ssr)/./app/components/Gallery.tsx\");\n/* harmony import */ var _components_Contact__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./components/Contact */ \"(ssr)/./app/components/Contact.tsx\");\n/* harmony import */ var _components_StickyCard__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ./components/StickyCard */ \"(ssr)/./app/components/StickyCard.tsx\");\n/* __next_internal_client_entry_do_not_use__ default auto */ \n\n\n\n\n\n\n\n\n\nfunction Home() {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"main\", {\n        className: \"relative min-h-screen bg-bone\",\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_Nav__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {}, void 0, false, {\n                fileName: \"/home/runner/workspace/app/page.tsx\",\n                lineNumber: 16,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_StickyCard__WEBPACK_IMPORTED_MODULE_9__[\"default\"], {\n                zIndex: 1,\n                shadow: \"none\",\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_Hero__WEBPACK_IMPORTED_MODULE_2__[\"default\"], {}, void 0, false, {\n                    fileName: \"/home/runner/workspace/app/page.tsx\",\n                    lineNumber: 20,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"/home/runner/workspace/app/page.tsx\",\n                lineNumber: 19,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_StickyCard__WEBPACK_IMPORTED_MODULE_9__[\"default\"], {\n                zIndex: 2,\n                shadow: \"0 -20px 60px rgba(0,0,0,0.10)\",\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_About__WEBPACK_IMPORTED_MODULE_3__[\"default\"], {}, void 0, false, {\n                    fileName: \"/home/runner/workspace/app/page.tsx\",\n                    lineNumber: 25,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"/home/runner/workspace/app/page.tsx\",\n                lineNumber: 24,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_StickyCard__WEBPACK_IMPORTED_MODULE_9__[\"default\"], {\n                zIndex: 3,\n                shadow: \"0 -20px 60px rgba(0,0,0,0.14)\",\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_Work__WEBPACK_IMPORTED_MODULE_4__[\"default\"], {}, void 0, false, {\n                    fileName: \"/home/runner/workspace/app/page.tsx\",\n                    lineNumber: 30,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"/home/runner/workspace/app/page.tsx\",\n                lineNumber: 29,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_StickyCard__WEBPACK_IMPORTED_MODULE_9__[\"default\"], {\n                zIndex: 4,\n                shadow: \"0 -20px 60px rgba(0,0,0,0.10)\",\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_Experience__WEBPACK_IMPORTED_MODULE_5__[\"default\"], {}, void 0, false, {\n                    fileName: \"/home/runner/workspace/app/page.tsx\",\n                    lineNumber: 35,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"/home/runner/workspace/app/page.tsx\",\n                lineNumber: 34,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_StickyCard__WEBPACK_IMPORTED_MODULE_9__[\"default\"], {\n                zIndex: 5,\n                shadow: \"0 -20px 60px rgba(0,0,0,0.18)\",\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_BrandWall__WEBPACK_IMPORTED_MODULE_6__[\"default\"], {}, void 0, false, {\n                    fileName: \"/home/runner/workspace/app/page.tsx\",\n                    lineNumber: 40,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"/home/runner/workspace/app/page.tsx\",\n                lineNumber: 39,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_StickyCard__WEBPACK_IMPORTED_MODULE_9__[\"default\"], {\n                zIndex: 6,\n                shadow: \"0 -20px 60px rgba(0,0,0,0.10)\",\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_Gallery__WEBPACK_IMPORTED_MODULE_7__[\"default\"], {}, void 0, false, {\n                    fileName: \"/home/runner/workspace/app/page.tsx\",\n                    lineNumber: 45,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"/home/runner/workspace/app/page.tsx\",\n                lineNumber: 44,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_StickyCard__WEBPACK_IMPORTED_MODULE_9__[\"default\"], {\n                zIndex: 7,\n                shadow: \"0 -20px 60px rgba(0,0,0,0.18)\",\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_Contact__WEBPACK_IMPORTED_MODULE_8__[\"default\"], {}, void 0, false, {\n                    fileName: \"/home/runner/workspace/app/page.tsx\",\n                    lineNumber: 50,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"/home/runner/workspace/app/page.tsx\",\n                lineNumber: 49,\n                columnNumber: 7\n            }, this)\n        ]\n    }, void 0, true, {\n        fileName: \"/home/runner/workspace/app/page.tsx\",\n        lineNumber: 15,\n        columnNumber: 5\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNzcikvLi9hcHAvcGFnZS50c3giLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7OztBQUVtQztBQUNFO0FBQ0U7QUFDRjtBQUNZO0FBQ0Y7QUFDSjtBQUNBO0FBQ007QUFFbEMsU0FBU1M7SUFDdEIscUJBQ0UsOERBQUNDO1FBQUtDLFdBQVU7OzBCQUNkLDhEQUFDWCx1REFBR0E7Ozs7OzBCQUdKLDhEQUFDUSw4REFBVUE7Z0JBQUNJLFFBQVE7Z0JBQUdDLFFBQU87MEJBQzVCLDRFQUFDWix3REFBSUE7Ozs7Ozs7Ozs7MEJBSVAsOERBQUNPLDhEQUFVQTtnQkFBQ0ksUUFBUTtnQkFBR0MsUUFBTzswQkFDNUIsNEVBQUNYLHlEQUFLQTs7Ozs7Ozs7OzswQkFJUiw4REFBQ00sOERBQVVBO2dCQUFDSSxRQUFRO2dCQUFHQyxRQUFPOzBCQUM1Qiw0RUFBQ1Ysd0RBQUlBOzs7Ozs7Ozs7OzBCQUlQLDhEQUFDSyw4REFBVUE7Z0JBQUNJLFFBQVE7Z0JBQUdDLFFBQU87MEJBQzVCLDRFQUFDVCw4REFBVUE7Ozs7Ozs7Ozs7MEJBSWIsOERBQUNJLDhEQUFVQTtnQkFBQ0ksUUFBUTtnQkFBR0MsUUFBTzswQkFDNUIsNEVBQUNSLDZEQUFTQTs7Ozs7Ozs7OzswQkFJWiw4REFBQ0csOERBQVVBO2dCQUFDSSxRQUFRO2dCQUFHQyxRQUFPOzBCQUM1Qiw0RUFBQ1AsMkRBQU9BOzs7Ozs7Ozs7OzBCQUlWLDhEQUFDRSw4REFBVUE7Z0JBQUNJLFFBQVE7Z0JBQUdDLFFBQU87MEJBQzVCLDRFQUFDTiwyREFBT0E7Ozs7Ozs7Ozs7Ozs7Ozs7QUFJaEIiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly92aXRhLWdvaGVsLXBvcnRmb2xpby8uL2FwcC9wYWdlLnRzeD83NjAzIl0sInNvdXJjZXNDb250ZW50IjpbIlwidXNlIGNsaWVudFwiO1xuXG5pbXBvcnQgTmF2IGZyb20gXCIuL2NvbXBvbmVudHMvTmF2XCI7XG5pbXBvcnQgSGVybyBmcm9tIFwiLi9jb21wb25lbnRzL0hlcm9cIjtcbmltcG9ydCBBYm91dCBmcm9tIFwiLi9jb21wb25lbnRzL0Fib3V0XCI7XG5pbXBvcnQgV29yayBmcm9tIFwiLi9jb21wb25lbnRzL1dvcmtcIjtcbmltcG9ydCBFeHBlcmllbmNlIGZyb20gXCIuL2NvbXBvbmVudHMvRXhwZXJpZW5jZVwiO1xuaW1wb3J0IEJyYW5kV2FsbCBmcm9tIFwiLi9jb21wb25lbnRzL0JyYW5kV2FsbFwiO1xuaW1wb3J0IEdhbGxlcnkgZnJvbSBcIi4vY29tcG9uZW50cy9HYWxsZXJ5XCI7XG5pbXBvcnQgQ29udGFjdCBmcm9tIFwiLi9jb21wb25lbnRzL0NvbnRhY3RcIjtcbmltcG9ydCBTdGlja3lDYXJkIGZyb20gXCIuL2NvbXBvbmVudHMvU3RpY2t5Q2FyZFwiO1xuXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBIb21lKCkge1xuICByZXR1cm4gKFxuICAgIDxtYWluIGNsYXNzTmFtZT1cInJlbGF0aXZlIG1pbi1oLXNjcmVlbiBiZy1ib25lXCI+XG4gICAgICA8TmF2IC8+XG5cbiAgICAgIHsvKiBIZXJvIOKAlCBiYXNlIGxheWVyICovfVxuICAgICAgPFN0aWNreUNhcmQgekluZGV4PXsxfSBzaGFkb3c9XCJub25lXCI+XG4gICAgICAgIDxIZXJvIC8+XG4gICAgICA8L1N0aWNreUNhcmQ+XG5cbiAgICAgIHsvKiBBYm91dCDigJQgcmlzZXMgb3ZlciBIZXJvICovfVxuICAgICAgPFN0aWNreUNhcmQgekluZGV4PXsyfSBzaGFkb3c9XCIwIC0yMHB4IDYwcHggcmdiYSgwLDAsMCwwLjEwKVwiPlxuICAgICAgICA8QWJvdXQgLz5cbiAgICAgIDwvU3RpY2t5Q2FyZD5cblxuICAgICAgey8qIFdvcmsg4oCUIHJpc2VzIG92ZXIgQWJvdXQgKi99XG4gICAgICA8U3RpY2t5Q2FyZCB6SW5kZXg9ezN9IHNoYWRvdz1cIjAgLTIwcHggNjBweCByZ2JhKDAsMCwwLDAuMTQpXCI+XG4gICAgICAgIDxXb3JrIC8+XG4gICAgICA8L1N0aWNreUNhcmQ+XG5cbiAgICAgIHsvKiBFeHBlcmllbmNlIOKAlCByaXNlcyBvdmVyIFdvcmsgKi99XG4gICAgICA8U3RpY2t5Q2FyZCB6SW5kZXg9ezR9IHNoYWRvdz1cIjAgLTIwcHggNjBweCByZ2JhKDAsMCwwLDAuMTApXCI+XG4gICAgICAgIDxFeHBlcmllbmNlIC8+XG4gICAgICA8L1N0aWNreUNhcmQ+XG5cbiAgICAgIHsvKiBCcmFuZFdhbGwg4oCUIHJpc2VzIG92ZXIgRXhwZXJpZW5jZSAqL31cbiAgICAgIDxTdGlja3lDYXJkIHpJbmRleD17NX0gc2hhZG93PVwiMCAtMjBweCA2MHB4IHJnYmEoMCwwLDAsMC4xOClcIj5cbiAgICAgICAgPEJyYW5kV2FsbCAvPlxuICAgICAgPC9TdGlja3lDYXJkPlxuXG4gICAgICB7LyogR2FsbGVyeSDigJQgcmlzZXMgb3ZlciBCcmFuZFdhbGwgKi99XG4gICAgICA8U3RpY2t5Q2FyZCB6SW5kZXg9ezZ9IHNoYWRvdz1cIjAgLTIwcHggNjBweCByZ2JhKDAsMCwwLDAuMTApXCI+XG4gICAgICAgIDxHYWxsZXJ5IC8+XG4gICAgICA8L1N0aWNreUNhcmQ+XG5cbiAgICAgIHsvKiBDb250YWN0IOKAlCByaXNlcyBvdmVyIEdhbGxlcnkgKi99XG4gICAgICA8U3RpY2t5Q2FyZCB6SW5kZXg9ezd9IHNoYWRvdz1cIjAgLTIwcHggNjBweCByZ2JhKDAsMCwwLDAuMTgpXCI+XG4gICAgICAgIDxDb250YWN0IC8+XG4gICAgICA8L1N0aWNreUNhcmQ+XG4gICAgPC9tYWluPlxuICApO1xufVxuIl0sIm5hbWVzIjpbIk5hdiIsIkhlcm8iLCJBYm91dCIsIldvcmsiLCJFeHBlcmllbmNlIiwiQnJhbmRXYWxsIiwiR2FsbGVyeSIsIkNvbnRhY3QiLCJTdGlja3lDYXJkIiwiSG9tZSIsIm1haW4iLCJjbGFzc05hbWUiLCJ6SW5kZXgiLCJzaGFkb3ciXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(ssr)/./app/page.tsx\n");
+
+/***/ }),
+
 /***/ "(rsc)/./app/globals.css":
 /*!*************************!*\
   !*** ./app/globals.css ***!
@@ -226,238 +248,6 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 "use strict";
 eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (\"048faa370e7f\");\nif (false) {}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9hcHAvZ2xvYmFscy5jc3MiLCJtYXBwaW5ncyI6Ijs7OztBQUFBLGlFQUFlLGNBQWM7QUFDN0IsSUFBSSxLQUFVLEVBQUUsRUFBdUIiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly92aXRhLWdvaGVsLXBvcnRmb2xpby8uL2FwcC9nbG9iYWxzLmNzcz82OWI2Il0sInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBkZWZhdWx0IFwiMDQ4ZmFhMzcwZTdmXCJcbmlmIChtb2R1bGUuaG90KSB7IG1vZHVsZS5ob3QuYWNjZXB0KCkgfVxuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(rsc)/./app/globals.css\n");
-
-/***/ }),
-
-/***/ "(rsc)/./app/components/About.tsx":
-/*!**********************************!*\
-  !*** ./app/components/About.tsx ***!
-  \**********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   $$typeof: () => (/* binding */ $$typeof),
-/* harmony export */   __esModule: () => (/* binding */ __esModule),
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
-
-const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/runner/workspace/app/components/About.tsx`)
-
-// Accessing the __esModule property and exporting $$typeof are required here.
-// The __esModule getter forces the proxy target to create the default export
-// and the $$typeof value is for rendering logic to determine if the module
-// is a client boundary.
-const { __esModule, $$typeof } = proxy;
-const __default__ = proxy.default;
-
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/runner/workspace/app/components/About.tsx#default`));
-
-
-/***/ }),
-
-/***/ "(rsc)/./app/components/BrandWall.tsx":
-/*!**************************************!*\
-  !*** ./app/components/BrandWall.tsx ***!
-  \**************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   $$typeof: () => (/* binding */ $$typeof),
-/* harmony export */   __esModule: () => (/* binding */ __esModule),
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
-
-const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/runner/workspace/app/components/BrandWall.tsx`)
-
-// Accessing the __esModule property and exporting $$typeof are required here.
-// The __esModule getter forces the proxy target to create the default export
-// and the $$typeof value is for rendering logic to determine if the module
-// is a client boundary.
-const { __esModule, $$typeof } = proxy;
-const __default__ = proxy.default;
-
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/runner/workspace/app/components/BrandWall.tsx#default`));
-
-
-/***/ }),
-
-/***/ "(rsc)/./app/components/Contact.tsx":
-/*!************************************!*\
-  !*** ./app/components/Contact.tsx ***!
-  \************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   $$typeof: () => (/* binding */ $$typeof),
-/* harmony export */   __esModule: () => (/* binding */ __esModule),
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
-
-const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/runner/workspace/app/components/Contact.tsx`)
-
-// Accessing the __esModule property and exporting $$typeof are required here.
-// The __esModule getter forces the proxy target to create the default export
-// and the $$typeof value is for rendering logic to determine if the module
-// is a client boundary.
-const { __esModule, $$typeof } = proxy;
-const __default__ = proxy.default;
-
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/runner/workspace/app/components/Contact.tsx#default`));
-
-
-/***/ }),
-
-/***/ "(rsc)/./app/components/Experience.tsx":
-/*!***************************************!*\
-  !*** ./app/components/Experience.tsx ***!
-  \***************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   $$typeof: () => (/* binding */ $$typeof),
-/* harmony export */   __esModule: () => (/* binding */ __esModule),
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
-
-const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/runner/workspace/app/components/Experience.tsx`)
-
-// Accessing the __esModule property and exporting $$typeof are required here.
-// The __esModule getter forces the proxy target to create the default export
-// and the $$typeof value is for rendering logic to determine if the module
-// is a client boundary.
-const { __esModule, $$typeof } = proxy;
-const __default__ = proxy.default;
-
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/runner/workspace/app/components/Experience.tsx#default`));
-
-
-/***/ }),
-
-/***/ "(rsc)/./app/components/Gallery.tsx":
-/*!************************************!*\
-  !*** ./app/components/Gallery.tsx ***!
-  \************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   $$typeof: () => (/* binding */ $$typeof),
-/* harmony export */   __esModule: () => (/* binding */ __esModule),
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
-
-const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/runner/workspace/app/components/Gallery.tsx`)
-
-// Accessing the __esModule property and exporting $$typeof are required here.
-// The __esModule getter forces the proxy target to create the default export
-// and the $$typeof value is for rendering logic to determine if the module
-// is a client boundary.
-const { __esModule, $$typeof } = proxy;
-const __default__ = proxy.default;
-
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/runner/workspace/app/components/Gallery.tsx#default`));
-
-
-/***/ }),
-
-/***/ "(rsc)/./app/components/Hero.tsx":
-/*!*********************************!*\
-  !*** ./app/components/Hero.tsx ***!
-  \*********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   $$typeof: () => (/* binding */ $$typeof),
-/* harmony export */   __esModule: () => (/* binding */ __esModule),
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
-
-const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/runner/workspace/app/components/Hero.tsx`)
-
-// Accessing the __esModule property and exporting $$typeof are required here.
-// The __esModule getter forces the proxy target to create the default export
-// and the $$typeof value is for rendering logic to determine if the module
-// is a client boundary.
-const { __esModule, $$typeof } = proxy;
-const __default__ = proxy.default;
-
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/runner/workspace/app/components/Hero.tsx#default`));
-
-
-/***/ }),
-
-/***/ "(rsc)/./app/components/Nav.tsx":
-/*!********************************!*\
-  !*** ./app/components/Nav.tsx ***!
-  \********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   $$typeof: () => (/* binding */ $$typeof),
-/* harmony export */   __esModule: () => (/* binding */ __esModule),
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
-
-const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/runner/workspace/app/components/Nav.tsx`)
-
-// Accessing the __esModule property and exporting $$typeof are required here.
-// The __esModule getter forces the proxy target to create the default export
-// and the $$typeof value is for rendering logic to determine if the module
-// is a client boundary.
-const { __esModule, $$typeof } = proxy;
-const __default__ = proxy.default;
-
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/runner/workspace/app/components/Nav.tsx#default`));
-
-
-/***/ }),
-
-/***/ "(rsc)/./app/components/Work.tsx":
-/*!*********************************!*\
-  !*** ./app/components/Work.tsx ***!
-  \*********************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   $$typeof: () => (/* binding */ $$typeof),
-/* harmony export */   __esModule: () => (/* binding */ __esModule),
-/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
-/* harmony export */ });
-/* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
-
-const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/runner/workspace/app/components/Work.tsx`)
-
-// Accessing the __esModule property and exporting $$typeof are required here.
-// The __esModule getter forces the proxy target to create the default export
-// and the $$typeof value is for rendering logic to determine if the module
-// is a client boundary.
-const { __esModule, $$typeof } = proxy;
-const __default__ = proxy.default;
-
-/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/runner/workspace/app/components/Work.tsx#default`));
-
 
 /***/ }),
 
@@ -479,7 +269,25 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Home)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"(rsc)/./node_modules/next/dist/server/future/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _components_Nav__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./components/Nav */ \"(rsc)/./app/components/Nav.tsx\");\n/* harmony import */ var _components_Hero__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./components/Hero */ \"(rsc)/./app/components/Hero.tsx\");\n/* harmony import */ var _components_About__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./components/About */ \"(rsc)/./app/components/About.tsx\");\n/* harmony import */ var _components_Work__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./components/Work */ \"(rsc)/./app/components/Work.tsx\");\n/* harmony import */ var _components_Experience__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./components/Experience */ \"(rsc)/./app/components/Experience.tsx\");\n/* harmony import */ var _components_BrandWall__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./components/BrandWall */ \"(rsc)/./app/components/BrandWall.tsx\");\n/* harmony import */ var _components_Gallery__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./components/Gallery */ \"(rsc)/./app/components/Gallery.tsx\");\n/* harmony import */ var _components_Contact__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./components/Contact */ \"(rsc)/./app/components/Contact.tsx\");\n\n\n\n\n\n\n\n\n\nfunction Home() {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"main\", {\n        className: \"relative min-h-screen bg-bone\",\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_Nav__WEBPACK_IMPORTED_MODULE_1__[\"default\"], {}, void 0, false, {\n                fileName: \"/home/runner/workspace/app/page.tsx\",\n                lineNumber: 13,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                className: \"sticky top-0\",\n                style: {\n                    zIndex: 1\n                },\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_Hero__WEBPACK_IMPORTED_MODULE_2__[\"default\"], {}, void 0, false, {\n                    fileName: \"/home/runner/workspace/app/page.tsx\",\n                    lineNumber: 17,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"/home/runner/workspace/app/page.tsx\",\n                lineNumber: 16,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                className: \"sticky top-0 rounded-t-[2rem] overflow-hidden\",\n                style: {\n                    zIndex: 2,\n                    boxShadow: \"0 -20px 60px rgba(0,0,0,0.10)\"\n                },\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_About__WEBPACK_IMPORTED_MODULE_3__[\"default\"], {}, void 0, false, {\n                    fileName: \"/home/runner/workspace/app/page.tsx\",\n                    lineNumber: 28,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"/home/runner/workspace/app/page.tsx\",\n                lineNumber: 21,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                className: \"sticky top-0 rounded-t-[2rem] overflow-hidden\",\n                style: {\n                    zIndex: 3,\n                    boxShadow: \"0 -20px 60px rgba(0,0,0,0.14)\"\n                },\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_Work__WEBPACK_IMPORTED_MODULE_4__[\"default\"], {}, void 0, false, {\n                    fileName: \"/home/runner/workspace/app/page.tsx\",\n                    lineNumber: 39,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"/home/runner/workspace/app/page.tsx\",\n                lineNumber: 32,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                className: \"relative rounded-t-[2rem] overflow-hidden -mt-8\",\n                style: {\n                    zIndex: 4,\n                    boxShadow: \"0 -20px 60px rgba(0,0,0,0.10)\"\n                },\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_Experience__WEBPACK_IMPORTED_MODULE_5__[\"default\"], {}, void 0, false, {\n                    fileName: \"/home/runner/workspace/app/page.tsx\",\n                    lineNumber: 50,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"/home/runner/workspace/app/page.tsx\",\n                lineNumber: 43,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                className: \"sticky top-0 rounded-t-[2rem] overflow-hidden\",\n                style: {\n                    zIndex: 5,\n                    boxShadow: \"0 -20px 60px rgba(0,0,0,0.18)\"\n                },\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_BrandWall__WEBPACK_IMPORTED_MODULE_6__[\"default\"], {}, void 0, false, {\n                    fileName: \"/home/runner/workspace/app/page.tsx\",\n                    lineNumber: 61,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"/home/runner/workspace/app/page.tsx\",\n                lineNumber: 54,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                className: \"relative rounded-t-[2rem] overflow-hidden -mt-8\",\n                style: {\n                    zIndex: 6,\n                    boxShadow: \"0 -20px 60px rgba(0,0,0,0.10)\"\n                },\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_Gallery__WEBPACK_IMPORTED_MODULE_7__[\"default\"], {}, void 0, false, {\n                    fileName: \"/home/runner/workspace/app/page.tsx\",\n                    lineNumber: 72,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"/home/runner/workspace/app/page.tsx\",\n                lineNumber: 65,\n                columnNumber: 7\n            }, this),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n                className: \"sticky top-0 rounded-t-[2rem] overflow-hidden\",\n                style: {\n                    zIndex: 7,\n                    boxShadow: \"0 -20px 60px rgba(0,0,0,0.18)\"\n                },\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_components_Contact__WEBPACK_IMPORTED_MODULE_8__[\"default\"], {}, void 0, false, {\n                    fileName: \"/home/runner/workspace/app/page.tsx\",\n                    lineNumber: 83,\n                    columnNumber: 9\n                }, this)\n            }, void 0, false, {\n                fileName: \"/home/runner/workspace/app/page.tsx\",\n                lineNumber: 76,\n                columnNumber: 7\n            }, this)\n        ]\n    }, void 0, true, {\n        fileName: \"/home/runner/workspace/app/page.tsx\",\n        lineNumber: 12,\n        columnNumber: 5\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHJzYykvLi9hcHAvcGFnZS50c3giLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7O0FBQW1DO0FBQ0U7QUFDRTtBQUNGO0FBQ1k7QUFDRjtBQUNKO0FBQ0E7QUFFNUIsU0FBU1E7SUFDdEIscUJBQ0UsOERBQUNDO1FBQUtDLFdBQVU7OzBCQUNkLDhEQUFDVix1REFBR0E7Ozs7OzBCQUdKLDhEQUFDVztnQkFBSUQsV0FBVTtnQkFBZUUsT0FBTztvQkFBRUMsUUFBUTtnQkFBRTswQkFDL0MsNEVBQUNaLHdEQUFJQTs7Ozs7Ozs7OzswQkFJUCw4REFBQ1U7Z0JBQ0NELFdBQVU7Z0JBQ1ZFLE9BQU87b0JBQ0xDLFFBQVE7b0JBQ1JDLFdBQVc7Z0JBQ2I7MEJBRUEsNEVBQUNaLHlEQUFLQTs7Ozs7Ozs7OzswQkFJUiw4REFBQ1M7Z0JBQ0NELFdBQVU7Z0JBQ1ZFLE9BQU87b0JBQ0xDLFFBQVE7b0JBQ1JDLFdBQVc7Z0JBQ2I7MEJBRUEsNEVBQUNYLHdEQUFJQTs7Ozs7Ozs7OzswQkFJUCw4REFBQ1E7Z0JBQ0NELFdBQVU7Z0JBQ1ZFLE9BQU87b0JBQ0xDLFFBQVE7b0JBQ1JDLFdBQVc7Z0JBQ2I7MEJBRUEsNEVBQUNWLDhEQUFVQTs7Ozs7Ozs7OzswQkFJYiw4REFBQ087Z0JBQ0NELFdBQVU7Z0JBQ1ZFLE9BQU87b0JBQ0xDLFFBQVE7b0JBQ1JDLFdBQVc7Z0JBQ2I7MEJBRUEsNEVBQUNULDZEQUFTQTs7Ozs7Ozs7OzswQkFJWiw4REFBQ007Z0JBQ0NELFdBQVU7Z0JBQ1ZFLE9BQU87b0JBQ0xDLFFBQVE7b0JBQ1JDLFdBQVc7Z0JBQ2I7MEJBRUEsNEVBQUNSLDJEQUFPQTs7Ozs7Ozs7OzswQkFJViw4REFBQ0s7Z0JBQ0NELFdBQVU7Z0JBQ1ZFLE9BQU87b0JBQ0xDLFFBQVE7b0JBQ1JDLFdBQVc7Z0JBQ2I7MEJBRUEsNEVBQUNQLDJEQUFPQTs7Ozs7Ozs7Ozs7Ozs7OztBQUloQiIsInNvdXJjZXMiOlsid2VicGFjazovL3ZpdGEtZ29oZWwtcG9ydGZvbGlvLy4vYXBwL3BhZ2UudHN4Pzc2MDMiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IE5hdiBmcm9tIFwiLi9jb21wb25lbnRzL05hdlwiO1xuaW1wb3J0IEhlcm8gZnJvbSBcIi4vY29tcG9uZW50cy9IZXJvXCI7XG5pbXBvcnQgQWJvdXQgZnJvbSBcIi4vY29tcG9uZW50cy9BYm91dFwiO1xuaW1wb3J0IFdvcmsgZnJvbSBcIi4vY29tcG9uZW50cy9Xb3JrXCI7XG5pbXBvcnQgRXhwZXJpZW5jZSBmcm9tIFwiLi9jb21wb25lbnRzL0V4cGVyaWVuY2VcIjtcbmltcG9ydCBCcmFuZFdhbGwgZnJvbSBcIi4vY29tcG9uZW50cy9CcmFuZFdhbGxcIjtcbmltcG9ydCBHYWxsZXJ5IGZyb20gXCIuL2NvbXBvbmVudHMvR2FsbGVyeVwiO1xuaW1wb3J0IENvbnRhY3QgZnJvbSBcIi4vY29tcG9uZW50cy9Db250YWN0XCI7XG5cbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEhvbWUoKSB7XG4gIHJldHVybiAoXG4gICAgPG1haW4gY2xhc3NOYW1lPVwicmVsYXRpdmUgbWluLWgtc2NyZWVuIGJnLWJvbmVcIj5cbiAgICAgIDxOYXYgLz5cblxuICAgICAgey8qIEhlcm8g4oCUIGJhc2UgbGF5ZXIsIHBpbm5lZCAqL31cbiAgICAgIDxkaXYgY2xhc3NOYW1lPVwic3RpY2t5IHRvcC0wXCIgc3R5bGU9e3sgekluZGV4OiAxIH19PlxuICAgICAgICA8SGVybyAvPlxuICAgICAgPC9kaXY+XG5cbiAgICAgIHsvKiBBYm91dCDigJQgcmlzZXMgb3ZlciBIZXJvLCBwaW5zIHdoaWxlIG5leHQgc2VjdGlvbiBjb3ZlcnMgaXQgKi99XG4gICAgICA8ZGl2XG4gICAgICAgIGNsYXNzTmFtZT1cInN0aWNreSB0b3AtMCByb3VuZGVkLXQtWzJyZW1dIG92ZXJmbG93LWhpZGRlblwiXG4gICAgICAgIHN0eWxlPXt7XG4gICAgICAgICAgekluZGV4OiAyLFxuICAgICAgICAgIGJveFNoYWRvdzogXCIwIC0yMHB4IDYwcHggcmdiYSgwLDAsMCwwLjEwKVwiLFxuICAgICAgICB9fVxuICAgICAgPlxuICAgICAgICA8QWJvdXQgLz5cbiAgICAgIDwvZGl2PlxuXG4gICAgICB7LyogV29yayDigJQgcmlzZXMgb3ZlciBBYm91dCwgcGlucyAqL31cbiAgICAgIDxkaXZcbiAgICAgICAgY2xhc3NOYW1lPVwic3RpY2t5IHRvcC0wIHJvdW5kZWQtdC1bMnJlbV0gb3ZlcmZsb3ctaGlkZGVuXCJcbiAgICAgICAgc3R5bGU9e3tcbiAgICAgICAgICB6SW5kZXg6IDMsXG4gICAgICAgICAgYm94U2hhZG93OiBcIjAgLTIwcHggNjBweCByZ2JhKDAsMCwwLDAuMTQpXCIsXG4gICAgICAgIH19XG4gICAgICA+XG4gICAgICAgIDxXb3JrIC8+XG4gICAgICA8L2Rpdj5cblxuICAgICAgey8qIEV4cGVyaWVuY2Ug4oCUIHRvbyBsb25nIHRvIHBpbjsgY2FyZCB0cmVhdG1lbnQgb25seSwgc2Nyb2xscyBub3JtYWxseSAqL31cbiAgICAgIDxkaXZcbiAgICAgICAgY2xhc3NOYW1lPVwicmVsYXRpdmUgcm91bmRlZC10LVsycmVtXSBvdmVyZmxvdy1oaWRkZW4gLW10LThcIlxuICAgICAgICBzdHlsZT17e1xuICAgICAgICAgIHpJbmRleDogNCxcbiAgICAgICAgICBib3hTaGFkb3c6IFwiMCAtMjBweCA2MHB4IHJnYmEoMCwwLDAsMC4xMClcIixcbiAgICAgICAgfX1cbiAgICAgID5cbiAgICAgICAgPEV4cGVyaWVuY2UgLz5cbiAgICAgIDwvZGl2PlxuXG4gICAgICB7LyogQnJhbmRXYWxsIOKAlCByaXNlcyBhbmQgcGlucyBvdmVyIEV4cGVyaWVuY2UgKi99XG4gICAgICA8ZGl2XG4gICAgICAgIGNsYXNzTmFtZT1cInN0aWNreSB0b3AtMCByb3VuZGVkLXQtWzJyZW1dIG92ZXJmbG93LWhpZGRlblwiXG4gICAgICAgIHN0eWxlPXt7XG4gICAgICAgICAgekluZGV4OiA1LFxuICAgICAgICAgIGJveFNoYWRvdzogXCIwIC0yMHB4IDYwcHggcmdiYSgwLDAsMCwwLjE4KVwiLFxuICAgICAgICB9fVxuICAgICAgPlxuICAgICAgICA8QnJhbmRXYWxsIC8+XG4gICAgICA8L2Rpdj5cblxuICAgICAgey8qIEdhbGxlcnkg4oCUIHRvbyBsb25nIHRvIHBpbjsgY2FyZCB0cmVhdG1lbnQgb25seSwgc2Nyb2xscyBub3JtYWxseSAqL31cbiAgICAgIDxkaXZcbiAgICAgICAgY2xhc3NOYW1lPVwicmVsYXRpdmUgcm91bmRlZC10LVsycmVtXSBvdmVyZmxvdy1oaWRkZW4gLW10LThcIlxuICAgICAgICBzdHlsZT17e1xuICAgICAgICAgIHpJbmRleDogNixcbiAgICAgICAgICBib3hTaGFkb3c6IFwiMCAtMjBweCA2MHB4IHJnYmEoMCwwLDAsMC4xMClcIixcbiAgICAgICAgfX1cbiAgICAgID5cbiAgICAgICAgPEdhbGxlcnkgLz5cbiAgICAgIDwvZGl2PlxuXG4gICAgICB7LyogQ29udGFjdCDigJQgcmlzZXMgYW5kIHBpbnMgb3ZlciBHYWxsZXJ5ICovfVxuICAgICAgPGRpdlxuICAgICAgICBjbGFzc05hbWU9XCJzdGlja3kgdG9wLTAgcm91bmRlZC10LVsycmVtXSBvdmVyZmxvdy1oaWRkZW5cIlxuICAgICAgICBzdHlsZT17e1xuICAgICAgICAgIHpJbmRleDogNyxcbiAgICAgICAgICBib3hTaGFkb3c6IFwiMCAtMjBweCA2MHB4IHJnYmEoMCwwLDAsMC4xOClcIixcbiAgICAgICAgfX1cbiAgICAgID5cbiAgICAgICAgPENvbnRhY3QgLz5cbiAgICAgIDwvZGl2PlxuICAgIDwvbWFpbj5cbiAgKTtcbn1cbiJdLCJuYW1lcyI6WyJOYXYiLCJIZXJvIiwiQWJvdXQiLCJXb3JrIiwiRXhwZXJpZW5jZSIsIkJyYW5kV2FsbCIsIkdhbGxlcnkiLCJDb250YWN0IiwiSG9tZSIsIm1haW4iLCJjbGFzc05hbWUiLCJkaXYiLCJzdHlsZSIsInpJbmRleCIsImJveFNoYWRvdyJdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///(rsc)/./app/page.tsx\n");
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   $$typeof: () => (/* binding */ $$typeof),
+/* harmony export */   __esModule: () => (/* binding */ __esModule),
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
+
+const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/runner/workspace/app/page.tsx`)
+
+// Accessing the __esModule property and exporting $$typeof are required here.
+// The __esModule getter forces the proxy target to create the default export
+// and the $$typeof value is for rendering logic to determine if the module
+// is a client boundary.
+const { __esModule, $$typeof } = proxy;
+const __default__ = proxy.default;
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ((0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/home/runner/workspace/app/page.tsx#default`));
+
 
 /***/ })
 
