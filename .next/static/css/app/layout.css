@@ -1056,17 +1056,13 @@ video {
   -o-object-fit: cover;
      object-fit: cover;
 }
-.object-\[center_20\%\] {
-  -o-object-position: center 20%;
-     object-position: center 20%;
+.object-\[50\%_38\%\] {
+  -o-object-position: 50% 38%;
+     object-position: 50% 38%;
 }
 .object-center {
   -o-object-position: center;
      object-position: center;
-}
-.object-\[50\%_38\%\] {
-  -o-object-position: 50% 38%;
-     object-position: 50% 38%;
 }
 .p-1\.5 {
   padding: 0.375rem;
@@ -1586,16 +1582,8 @@ section {
     height: calc(100% - 2rem);
   }
 
-  .md\:h-full {
-    height: 100%;
-  }
-
   .md\:w-48 {
     width: 12rem;
-  }
-
-  .md\:w-auto {
-    width: auto;
   }
 
   .md\:grid-cols-12 {
@@ -1604,10 +1592,6 @@ section {
 
   .md\:grid-cols-4 {
     grid-template-columns: repeat(4, minmax(0, 1fr));
-  }
-
-  .md\:justify-end {
-    justify-content: flex-end;
   }
 
   .md\:gap-12 {
@@ -1626,14 +1610,14 @@ section {
     gap: 2rem;
   }
 
+  .md\:bg-\[\#c9a49e\] {
+    --tw-bg-opacity: 1;
+    background-color: rgb(201 164 158 / var(--tw-bg-opacity, 1));
+  }
+
   .md\:object-contain {
     -o-object-fit: contain;
        object-fit: contain;
-  }
-
-  .md\:object-right-top {
-    -o-object-position: right top;
-       object-position: right top;
   }
 
   .md\:object-center {
@@ -1736,25 +1720,8 @@ section {
   .md\:text-\[0\.65rem\] {
     font-size: 0.65rem;
   }
-
-  .md\:text-ink {
-    --tw-text-opacity: 1;
-    color: rgb(26 22 18 / var(--tw-text-opacity, 1));
-  }
-
-  .md\:text-ink\/60 {
-    color: rgb(26 22 18 / 0.6);
-  }
-
-  .md\:text-ink\/85 {
-    color: rgb(26 22 18 / 0.85);
-  }
 }
 @media (min-width: 1024px) {
-
-  .lg\:col-span-5 {
-    grid-column: span 5 / span 5;
-  }
 
   .lg\:col-span-6 {
     grid-column: span 6 / span 6;
