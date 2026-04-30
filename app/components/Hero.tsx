@@ -16,7 +16,7 @@ export default function Hero() {
           transition={{ duration: 1.6, ease: [0.22, 1, 0.36, 1] }}
           src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=2000&q=90&auto=format&fit=crop&crop=faces,top"
           alt="Vita Gohel — Creative Director"
-          className="w-full h-full object-cover object-top"
+          className="w-full h-full object-cover object-[center_20%]"
         />
       </div>
 
