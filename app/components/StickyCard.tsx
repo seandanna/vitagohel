@@ -37,7 +37,7 @@ export default function StickyCard({ children, zIndex, shadow }: StickyCardProps
   return (
     <div
       ref={ref}
-      className="sticky rounded-t-[2rem] overflow-hidden"
+      className="sticky overflow-hidden"
       style={{
         top: stickyTop,
         zIndex,

@@ -2,81 +2,62 @@
 
 import { motion } from "framer-motion";
 
+const stats = [
+  { number: "15+", label: "Years in beauty & consumer brands" },
+  { number: "10", label: "Brands led across her career" },
+  { number: "176%", label: "Social audience growth at LORAC" },
+  { number: "150%", label: "Sales-over-goal at peak launch" },
+];
+
 export default function About() {
   return (
-    <section
-      id="about"
-      className="relative bg-bone py-24 md:py-40"
-    >
-      <div className="max-w-[1600px] mx-auto px-6 md:px-12">
-        {/* Section header */}
-        <div className="grid md:grid-cols-12 gap-8 mb-16 md:mb-24">
-          <div className="md:col-span-3">
-            <div className="flex items-center gap-4">
-              <span className="section-index text-ink/50">01 — About</span>
-            </div>
-          </div>
-          <div className="md:col-span-9">
-            <h2
-              className="font-display leading-[0.95] tracking-[-0.02em] text-ink"
-              style={{
-                fontSize: "clamp(2.5rem, 6vw, 6rem)",
-                fontVariationSettings: "'SOFT' 50, 'opsz' 96",
-              }}
-            >
-              Fifteen years of building <em className="font-light">brands</em>
-              <br />
-              that move the market.
-            </h2>
-          </div>
+    <section id="about" className="relative bg-bone">
+      {/* Full-bleed editorial image, top half */}
+      <div className="relative w-full overflow-hidden" style={{ height: "65vh" }}>
+        <motion.img
+          initial={{ opacity: 0, scale: 1.04 }}
+          whileInView={{ opacity: 1, scale: 1 }}
+          viewport={{ once: true }}
+          transition={{ duration: 1.4, ease: [0.22, 1, 0.36, 1] }}
+          src="https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=2400&q=85&auto=format&fit=crop"
+          alt=""
+          className="w-full h-full object-cover object-center"
+        />
+        {/* Bottom gradient to merge into the stats below */}
+        <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-bone" />
+        {/* Section index overlay */}
+        <div className="absolute top-8 left-6 md:left-12">
+          <span className="section-index text-bone/70">01 — About</span>
         </div>
+      </div>
 
-        {/* Body copy in editorial two-column */}
-        <div className="grid md:grid-cols-12 gap-8 md:gap-16">
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            whileInView={{ opacity: 1, y: 0 }}
-            viewport={{ once: true, margin: "-100px" }}
-            transition={{ duration: 0.8 }}
-            className="md:col-span-7 md:col-start-4 space-y-6 text-lg md:text-xl leading-[1.6] text-ink/85 font-light"
-          >
-            <p>
-              Vita Gohel is a creative and brand leader specializing in scaling
-              future-forward beauty brands and building high-performing creative
-              teams that deliver measurable business results.
-            </p>
-            <p>
-              She leads end-to-end creative strategy, brand identity, and
-              multi-channel execution across digital, social, eCommerce, product
-              launches, packaging, and experiential campaigns — partnering
-              closely with executive leadership and cross-functional teams to
-              blend brand storytelling with performance marketing.
-            </p>
-            <p>
-              Known for elevating brands in fast-paced, high-growth environments,
-              Vita designs cohesive brand systems and ensures consistent brand
-              expression across every touchpoint. She is passionate about
-              mentoring teams, optimizing creative operations, and implementing
-              AI-driven workflows that unlock speed, quality, and sustainable
-              growth.
-            </p>
-          </motion.div>
-        </div>
+      {/* Headline + stats below image */}
+      <div className="max-w-[1600px] mx-auto px-6 md:px-12 pt-10 pb-20 md:pb-32">
+        <motion.h2
+          initial={{ opacity: 0, y: 24 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true, margin: "-60px" }}
+          transition={{ duration: 1, ease: [0.22, 1, 0.36, 1] }}
+          className="font-display leading-[0.95] tracking-[-0.02em] text-ink mb-16 md:mb-24"
+          style={{
+            fontSize: "clamp(2.5rem, 6vw, 6rem)",
+            fontVariationSettings: "'SOFT' 50, 'opsz' 96",
+          }}
+        >
+          Fifteen years of building <em className="font-light">brands</em>
+          <br />
+          that move the market.
+        </motion.h2>
 
-        {/* Numbers as a refined editorial moment */}
+        {/* Stats grid */}
         <motion.div
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
-          viewport={{ once: true, margin: "-100px" }}
-          transition={{ duration: 0.8, delay: 0.2 }}
-          className="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-12 mt-24 md:mt-40 pt-16 border-t border-ink/10"
+          viewport={{ once: true, margin: "-60px" }}
+          transition={{ duration: 0.8, delay: 0.15 }}
+          className="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-12 pt-12 border-t border-ink/10"
         >
-          {[
-            { number: "15+", label: "Years in beauty & consumer brands" },
-            { number: "10", label: "Brands led across her career" },
-            { number: "176%", label: "Social audience growth at LORAC" },
-            { number: "150%", label: "Sales-over-goal at peak launch" },
-          ].map((stat, i) => (
+          {stats.map((stat, i) => (
             <div key={i} className="space-y-3">
               <div
                 className="font-display text-ink leading-none"
