@@ -41,18 +41,6 @@ export default function Hero() {
       </div>
 
       <div className="relative max-w-[1600px] mx-auto w-full px-6 md:px-12">
-        {/* Index/eyebrow */}
-        <motion.div
-          initial={{ opacity: 0, y: 12 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, delay: 0.2 }}
-          className="flex items-center gap-4 mb-8 md:mb-12"
-        >
-          <span className="h-px w-10 bg-ink/30" />
-          <span className="section-index text-ink/60">
-            Portfolio · Est. 2026
-          </span>
-        </motion.div>
 
         {/* Massive name */}
         <div className="mb-8 md:mb-12">
