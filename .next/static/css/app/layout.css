@@ -600,6 +600,9 @@ video {
 .pointer-events-none {
   pointer-events: none;
 }
+.visible {
+  visibility: visible;
+}
 .fixed {
   position: fixed;
 }
@@ -1631,6 +1634,11 @@ section {
   .md\:object-right-top {
     -o-object-position: right top;
        object-position: right top;
+  }
+
+  .md\:object-center {
+    -o-object-position: center;
+       object-position: center;
   }
 
   .md\:p-10 {

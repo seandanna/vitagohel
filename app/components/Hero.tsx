@@ -8,15 +8,15 @@ export default function Hero() {
       id="top"
       className="relative min-h-[100svh] flex items-end overflow-hidden pb-16 md:pb-24 pt-32"
     >
-      {/* Portrait — full bleed, face centred */}
-      <div className="absolute inset-0 -z-10">
+      {/* Portrait — full bleed on mobile, whole photo visible on desktop */}
+      <div className="absolute inset-0 -z-10 bg-bone">
         <motion.img
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 1.2, delay: 0.2 }}
           src="https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=2000&q=90&auto=format"
           alt="Vita Gohel — Creative Director"
-          className="w-full h-full object-cover object-[50%_38%]"
+          className="w-full h-full object-cover object-[50%_38%] md:object-contain md:object-center"
         />
       </div>
 
