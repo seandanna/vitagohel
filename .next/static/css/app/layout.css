@@ -1615,6 +1615,11 @@ section {
     background-color: rgb(201 164 158 / var(--tw-bg-opacity, 1));
   }
 
+  .md\:bg-\[\#b8918b\] {
+    --tw-bg-opacity: 1;
+    background-color: rgb(184 145 139 / var(--tw-bg-opacity, 1));
+  }
+
   .md\:object-contain {
     -o-object-fit: contain;
        object-fit: contain;

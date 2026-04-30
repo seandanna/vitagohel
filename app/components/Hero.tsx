@@ -9,7 +9,7 @@ export default function Hero() {
       className="relative min-h-[100svh] flex items-end overflow-hidden pb-16 md:pb-24 pt-32"
     >
       {/* Portrait — full bleed on mobile, whole photo visible on desktop */}
-      <div className="absolute inset-0 -z-10 bg-bone md:bg-[#c9a49e]">
+      <div className="absolute inset-0 -z-10 bg-bone md:bg-[#b8918b]">
         <motion.img
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
